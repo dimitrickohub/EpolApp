@@ -1,0 +1,10 @@
+sftp_host=192.168.0.111
+sftp_port=22
+sftp_user=dmitry
+sftp_password=70513375
+sftp_remote_dir=c:\ProgramData\MySQL\MySQL Server 8.0\Data\fruitshop
+local_dir=/path/to/localdir
+sql_url=jdbc:mysql://localhost:3306/fruitshop
+sql_username=root
+sql_password=70513375
+sql_database=fruitshop
